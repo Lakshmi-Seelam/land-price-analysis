@@ -10,3 +10,15 @@ This project explores a small dataset of land sizes and prices using Python. It 
 ## Run
 ```bash
 python 6_da_exploringmeanmedianquartile.py
+
+## 🧾 Features
+- Summary statistics using `describe()`
+- Detection and replacement of NaN values
+- Mean and median imputation
+- Outlier detection using percentile
+- Removal of extreme values
+- Cleaned dataset export (optional)
+## 📂 Files
+- `6_da_exploringmeanmedianquartile.py` - Main analysis script
+- `land_price_data.csv` - Dataset used for analysis
+- `requirements.txt` - Required Python packages
