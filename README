@@ -1,0 +1,12 @@
+# Land Price Data Analysis
+
+This project explores a small dataset of land sizes and prices using Python. It calculates and visualizes key statistical measures like mean, median, and quartiles. Missing values are handled, and outliers can be analyzed in further steps.
+
+## Technologies
+- Python 3.9+
+- pandas
+- numpy
+
+## Run
+```bash
+python 6_da_exploringmeanmedianquartile.py
